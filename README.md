@@ -66,8 +66,6 @@ For example:
 
 DONATE US 🖤
 
-BTC:(Bitcoin)
-
 **ETH (Ethereum) ERC20** :  
 0x0c201ed698c805927cc770faf223d556d6e1272b
 
@@ -75,4 +73,4 @@ BTC:(Bitcoin)
 TRRdzfnZtbwn9ecGSmXHN1wki92rECeN4X
 
 **LTC (Litecoin):**  
-LNV2uKdeQWfpVT3WHcPwTLhvqMoYGHyYX3`
+LNV2uKdeQWfpVT3WHcPwTLhvqMoYGHyYX3
